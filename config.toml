@@ -1,0 +1,5 @@
+baseURL = "http://interpretable-ia.com/"
+languageCode = "en-us"
+title = "JMS website"
+subtitle = "this is my subtitle"
+theme = "beautifulhugo"
