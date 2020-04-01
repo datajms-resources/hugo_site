@@ -7,3 +7,6 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "datajms-resources.github.io"]
+	path = datajms-resources.github.io
+	url = git@github.com:datajms-resources/datajms-resources.github.io.git
